@@ -1,0 +1,12 @@
+LICENSE.txt
+README.md
+pyproject.toml
+src/did_multiplegt_dyn/__init__.py
+src/did_multiplegt_dyn/_utils.py
+src/did_multiplegt_dyn/did_multiplegt_dyn_core.py
+src/did_multiplegt_dyn/did_multiplegt_main.py
+src/py_did_multiplegt_dyn.egg-info/PKG-INFO
+src/py_did_multiplegt_dyn.egg-info/SOURCES.txt
+src/py_did_multiplegt_dyn.egg-info/dependency_links.txt
+src/py_did_multiplegt_dyn.egg-info/requires.txt
+src/py_did_multiplegt_dyn.egg-info/top_level.txt
