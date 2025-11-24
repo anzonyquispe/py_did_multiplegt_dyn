@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
+# py_did_multiplegt_dyn
+This is the python version of the main Stata package did_multiplegt_dyn.
+=======
 [![PyPI version](https://img.shields.io/pypi/v/py-did-multiplegt-dyn.svg?color=blue)](https://pypi.org/project/py-did-multiplegt-dyn/)
 [![Downloads](https://static.pepy.tech/personalized-badge/py-did-multiplegt-dyn?period=total&units=international_system&left_color=blue&right_color=grey&left_text=Downloads)](https://pepy.tech/project/py-did-multiplegt-dyn)
 [![Last commit](https://img.shields.io/github/last-commit/anzonyquispe/py_did_multiplegt_dyn.svg)](https://github.com/anzonyquispe/py_did_multiplegt_dyn/commits/main)
@@ -148,7 +152,7 @@ Estimating eight non-normalized event-study effects and three placebo effects of
 deregulations on loans volume:
 
 ```python
-favara_imbs = pl.read_csv('/Users/anzony.quisperojas/Documents/GitHub/py_did_multiplegt_dyn/data/favara_imbs_did_multiplegt_dyn.csv', 
+favara_imbs = pl.read_csv('https://raw.githubusercontent.com/anzonyquispe/py_did_multiplegt_dyn/main/data/favara_imbs_did_multiplegt_dyn.csv', 
                  ignore_errors = True)
 start = time.time()
 model1 = DidMultiplegtDyn(
@@ -345,3 +349,4 @@ Anzony Quispe, Economics Department, Sciences Po, France.
 
 
 
+>>>>>>> Stashed changes
